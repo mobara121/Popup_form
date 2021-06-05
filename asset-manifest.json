@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Popup_form/static/css/main.c5843d8f.chunk.css",
+    "main.js": "/Popup_form/static/js/main.fb1711fb.chunk.js",
+    "main.js.map": "/Popup_form/static/js/main.fb1711fb.chunk.js.map",
+    "runtime-main.js": "/Popup_form/static/js/runtime-main.5145a528.js",
+    "runtime-main.js.map": "/Popup_form/static/js/runtime-main.5145a528.js.map",
+    "static/js/2.fe98e7e5.chunk.js": "/Popup_form/static/js/2.fe98e7e5.chunk.js",
+    "static/js/2.fe98e7e5.chunk.js.map": "/Popup_form/static/js/2.fe98e7e5.chunk.js.map",
+    "index.html": "/Popup_form/index.html",
+    "static/css/main.c5843d8f.chunk.css.map": "/Popup_form/static/css/main.c5843d8f.chunk.css.map",
+    "static/js/2.fe98e7e5.chunk.js.LICENSE.txt": "/Popup_form/static/js/2.fe98e7e5.chunk.js.LICENSE.txt",
+    "static/media/castle_nagoya_6246.6bceba8e.png": "/Popup_form/static/media/castle_nagoya_6246.6bceba8e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5145a528.js",
+    "static/js/2.fe98e7e5.chunk.js",
+    "static/css/main.c5843d8f.chunk.css",
+    "static/js/main.fb1711fb.chunk.js"
+  ]
+}
