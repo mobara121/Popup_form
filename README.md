@@ -1,10 +1,11 @@
-![image](https://user-images.githubusercontent.com/63912277/114592116-996c5180-9c58-11eb-850a-ad6aaf60191b.png)
+![image](https://user-images.githubusercontent.com/63912277/120904444-5ad09300-c61a-11eb-9b79-53ec0b91bb6d.PNG)
 
 # Introduction of this application
 
-This single page application targets the following:
--`Project 1\`: clicking button leads a popup form to collect contact information for potential users.
--`Project 2\`: showing customer satisfaction survay result that can potentially help client convert people visitng our site into paid users.
+This single page application has the following features:
+
+- `Project 1`\: clicking button leads a popup form to collect contact information for potential users.
+- `Project 2`\: showing customer satisfaction survey result that can potentially help client convert people visiting our site into paid users.
 
 ## Technology stack
 
